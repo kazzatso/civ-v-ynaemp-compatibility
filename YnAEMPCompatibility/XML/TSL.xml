@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 20/10/2015 3:47:19 PM -->
+<GameData>
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_SIBIR</Type>
+			<X>60</X>
+			<Y>75</Y>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_YAKUTIA</Type>
+			<X>87</X>
+			<Y>76</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+</GameData>
